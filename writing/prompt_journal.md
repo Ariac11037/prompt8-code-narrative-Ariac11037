@@ -1,13 +1,5 @@
 ## 1. Prompts Used
 
-Copilot
-
-* Generate some code that serves as a narrative in terms of structure, comments, and design.
-* Generate narrative code that tells a story with its structure, comments, and design aspects.
-* Generate some code that tells a narrative through its structure, comments, and design.
-
-ChatGPT
-
 * Generate code that serves as a narrative covering one of three themes: collaboration, discovery, or conflict
 * Generate some narrative code, covering one of three themes: collaboration, discovery, or conflict. Use the structure, comments, and design of the code to create the narrative.
 * Few-shot prompt: using the previous code as an example, generate narrative code in the same format with a different topic
